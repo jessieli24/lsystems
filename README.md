@@ -1,13 +1,11 @@
 # L-System Trees
 ## Jessie Li
 
-Small experiment using L-systems to generate tree wireframes.
+Small experiment using L-systems to generate tree wireframes. Examples are available in the `images` folder.
 
-To run this project,
+### Usage
 
 ```
 pnpm install
 pnpm run dev
 ```
-
-Examples are available in the `images` folder.
